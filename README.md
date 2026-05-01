@@ -1,2 +1,5 @@
-# beagle-dog-guide
-Dog breed guide for Beagle — feeding, health, training, care tips
+# Beagle Dog Guide
+
+Complete Beagle care guide.
+
+Visit: https://onradar-dogs.github.io/beagle-dog-guide/
